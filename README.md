@@ -1,24 +1,15 @@
-Worthy - Free Bootstrap Template
+Personal site
 =======================================================================
+This project holds the file for a new basic personal site I decided to work on.
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
-You can use it for corporate, business and agency webpages as well as 
-portfolio and personal webpages.
-
-If you like the template and find it useful, please help us spread the word :-)
-
-- Theme version: v1.0
-- Release Date: 13 Nov 2014
-- Author: HtmlCoder (http://htmlcoder.me)
-- Contact: http://htmlcoder.me/contact
-
-Live Preview
+Theme - A free Bootstrap template.
 =======================================================================
+Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework.
 http://www.htmlcoder.me/preview/worthy/v.1.0
 
 License
 =======================================================================
-Worthy is released under the Creative Commons Attribution 3.0 License
+The theme is released under the Creative Commons Attribution 3.0 License
 https://creativecommons.org/licenses/by/3.0/
 
 Credits
